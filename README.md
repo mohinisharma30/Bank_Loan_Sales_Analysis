@@ -25,5 +25,29 @@ The goal is to create two interactive dashboards:
 **Loan Purpose Analysis**: Highlights the purpose of loans (debt consolidation, credit card payments, etc.).
 
 **Borrower Insights**: Analyzes borrower homeownership status and credit history.
+
+![image](https://github.com/user-attachments/assets/d52d94e7-cbe5-41c9-83c6-b65721b19308)
+
+## Insights
+**Loan Portfolio Overview**:-
+1.Total of 38.6K loan applications with $435.8M funded and $473.1M payments received.
+2.MOM growth shows a 6.9% increase in applications and a 13% rise in funded amounts.
+
+**Good vs. Bad Loans**:-
+86.18% of loans are classified as "Good Loans," while 13.82% are "Bad Loans" (Charged Off).
+**Loan Status**:-
+32.1K loans are Fully Paid, 1.1K are Current, and 5.3K are Charged Off, offering insights into loan repayment behavior.
+**Monthly Trends**:-
+Loan applications increase steadily throughout the year, peaking at 4.3K in December.
+**Loan Purpose**:-
+Debt consolidation (18.2K) and credit card refinancing (5K) are the most common purposes for loans.
+**Geographical Insights**:-
+California (6.9K), New York (3.7K), and Texas (2.7K) have the highest loan activity.
+**Loan Term and Borrower Profile**:-
+36-month loans (28.2K) are more popular than 60-month loans (10.3K), and borrowers with 10+ years of credit history are the most active segment.
+
+
+
+
  
 
