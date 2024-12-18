@@ -79,6 +79,7 @@ Include predictive analytics to forecast bad loan rates and support proactive de
 
 By implementing these recommendations, the institution can reduce risk, boost operational efficiency, and improve profitability. The dashboards offer a clear and concise view of loan performance, helping stakeholders make data-driven decisions.
 
+**Thank You**
 
 
 
