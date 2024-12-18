@@ -18,5 +18,5 @@ o	Monthly Trends: Tracks monthly loan application trends.
 o	State Distribution: Visualizes loan activity by state.
 o	Loan Purpose Analysis: Highlights the purpose of loans (debt consolidation, credit card payments, etc.).
 o	Borrower Insights: Analyzes borrower homeownership status and credit history.
-
+ 
 
