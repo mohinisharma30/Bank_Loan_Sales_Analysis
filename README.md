@@ -11,7 +11,7 @@ o	Key Metrics: Displays loan applications, funded amounts, payments, interest ra
 o	MOM Analysis: Shows monthly changes in key metrics to track performance shifts.
 o	Loan Status: Categorizes loans as Current, Fully Paid, or Charged Off, providing insights into loan quality.
 
-   https://github.com/mohinisharma30/Bank_Loan_Sales_Analysis/blob/9ccce696ea44e214cc41956b323fe8108cfcc103/Bank_Loan_Dashboard-Summary.png
+![image](https://github.com/user-attachments/assets/a8836f2e-9777-4ac7-a419-ec8e63931bd2)
 
 2.	Overview Dashboard
 o	Monthly Trends: Tracks monthly loan application trends.
