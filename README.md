@@ -8,9 +8,11 @@ The goal is to create two interactive dashboards:
 ## Project Highlights
 1.	Summary Dashboard:-
    
-**Key Metrics** : Displays loan applications, funded amounts, payments, interest rates, and DTI.
-**MOM Analysis**: Shows monthly changes in key metrics to track performance shifts.
-**Loan Status** : Categorizes loans as Current, Fully Paid, or Charged Off, providing insights into loan quality.
+  **Key Metrics** : Displays loan applications, funded amounts, payments, interest rates, and DTI.
+
+  **MOM Analysis**: Shows monthly changes in key metrics to track performance shifts.
+
+  **Loan Status** : Categorizes loans as Current, Fully Paid, or Charged Off, providing insights into loan quality.
 
 ![image](https://github.com/user-attachments/assets/a8836f2e-9777-4ac7-a419-ec8e63931bd2)
 
