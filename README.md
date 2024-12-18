@@ -6,12 +6,10 @@ The goal is to create two interactive dashboards:
 1.	Summary Dashboard - Offers a high-level view of key performance indicators (KPIs) and loan status.
 2.	Overview Dashboard - Delves into detailed trends, regional analysis, and loan characteristics to support data-driven decisions.
 ## Project Highlights
-1.	Summary Dashboard:-
+1.	**Summary Dashboard**:-
    
   **Key Metrics** : Displays loan applications, funded amounts, payments, interest rates, and DTI.
-
   **MOM Analysis**: Shows monthly changes in key metrics to track performance shifts.
-
   **Loan Status** : Categorizes loans as Current, Fully Paid, or Charged Off, providing insights into loan quality.
 
 ![image](https://github.com/user-attachments/assets/a8836f2e-9777-4ac7-a419-ec8e63931bd2)
