@@ -9,15 +9,21 @@ The goal is to create two interactive dashboards:
 1.	**Summary Dashboard**:-
    
   **Key Metrics** : Displays loan applications, funded amounts, payments, interest rates, and DTI.
+  
   **MOM Analysis**: Shows monthly changes in key metrics to track performance shifts.
+  
   **Loan Status** : Categorizes loans as Current, Fully Paid, or Charged Off, providing insights into loan quality.
 
 ![image](https://github.com/user-attachments/assets/a8836f2e-9777-4ac7-a419-ec8e63931bd2)
 
-2.	Overview Dashboard
-o	Monthly Trends: Tracks monthly loan application trends.
-o	State Distribution: Visualizes loan activity by state.
-o	Loan Purpose Analysis: Highlights the purpose of loans (debt consolidation, credit card payments, etc.).
-o	Borrower Insights: Analyzes borrower homeownership status and credit history.
+2.	**Overview Dashboard**:-
+   
+**Monthly Trends**: Tracks monthly loan application trends.
+
+**State Distribution**: Visualizes loan activity by state.
+
+**Loan Purpose Analysis**: Highlights the purpose of loans (debt consolidation, credit card payments, etc.).
+
+**Borrower Insights**: Analyzes borrower homeownership status and credit history.
  
 
